@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Demo Site</title><link>http://nikola.ralsina.com.ar</link><description>This is a demo site for Nikola.</description><lastBuildDate>Fri, 07 Jun 2013 23:15:21 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test Post from Nikola :)</title><link>http://nikola.ralsina.com.ar/posts/test-post-from-nikola.html</link><description>&lt;!-- link: --&gt;
+<rss version="2.0"><channel><title>Nikola Blog</title><link>http://lifeofnav.in</link><description>Bird? Plane? No, it's a Nikola-powered blog</description><lastBuildDate>Sat, 08 Jun 2013 00:33:04 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test Post from Nikola :)</title><link>http://lifeofnav.in/posts/test-post-from-nikola.html</link><description>&lt;!-- link: --&gt;
 &lt;!-- description: --&gt;
 &lt;!-- tags: --&gt;
 &lt;!-- date: 2013/06/07 23:04:41 --&gt;
 &lt;!-- title: Test Post from Nikola :) --&gt;
 &lt;!-- slug: test-post-from-nikola --&gt;
-&lt;p&gt;This is a test post. Hoping that this works :)&lt;/p&gt;</description><guid>http://nikola.ralsina.com.ar/posts/test-post-from-nikola.html</guid><pubDate>Fri, 07 Jun 2013 23:04:41 GMT</pubDate></item></channel></rss>
+&lt;p&gt;This is a test post. Hoping that this works :)&lt;/p&gt;</description><guid>http://lifeofnav.in/posts/test-post-from-nikola.html</guid><pubDate>Fri, 07 Jun 2013 23:04:41 GMT</pubDate></item></channel></rss>

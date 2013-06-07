@@ -5,63 +5,63 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://nikola.ralsina.com.ar</loc>
+  <loc>http://lifeofnav.in</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/2013/</loc>
   <lastmod>2013-06-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://nikola.ralsina.com.ar/2013/</loc>
+  <loc>http://lifeofnav.in/2013/index.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/archive.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/categories/</loc>
   <lastmod>2013-06-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://nikola.ralsina.com.ar/2013/index.html</loc>
+  <loc>http://lifeofnav.in/categories/index.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/galleries/</loc>
   <lastmod>2013-06-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://nikola.ralsina.com.ar/archive.html</loc>
+  <loc>http://lifeofnav.in/galleries/index.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/index.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/listings/</loc>
   <lastmod>2013-06-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://nikola.ralsina.com.ar/categories/</loc>
+  <loc>http://lifeofnav.in/listings/index.html</loc>
   <lastmod>2013-06-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://nikola.ralsina.com.ar/categories/index.html</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/galleries/</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/galleries/index.html</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/index.html</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/listings/</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/listings/index.html</loc>
-  <lastmod>2013-06-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://nikola.ralsina.com.ar/posts/test-post-from-nikola.html</loc>
-  <lastmod>2013-06-07</lastmod>
+  <loc>http://lifeofnav.in/posts/test-post-from-nikola.html</loc>
+  <lastmod>2013-06-08</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
