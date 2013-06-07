@@ -9,16 +9,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"
-BLOG_TITLE = "Demo Site"
+BLOG_AUTHOR = "Navin Pai"
+BLOG_TITLE = "Nikola Blog"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://nikola.ralsina.com.ar"
+SITE_URL = "http://lifeofnav.in"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."
+BLOG_EMAIL = "lifeofnavin@gmail.com"
+BLOG_DESCRIPTION = "Bird? Plane? No, it's a Nikola-powered blog"
 
 # Nikola is multilingual!
 #
