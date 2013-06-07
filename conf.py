@@ -233,7 +233,7 @@ OUTPUT_FOLDER = '../site'
 # translated
 
 # Name of the theme to use.
-# THEME = 'site'
+THEME = 'tumblog'
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
