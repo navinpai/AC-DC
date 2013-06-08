@@ -6,19 +6,20 @@ ${set_locale(lang)}
 <head>
     ${html_head()}
     
-    <link type="text/css" href="/assets/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="/assets/css/style.css"/>
+   <link type="text/css" rel="stylesheet" href="/assets/css/code.css"/>
     <%block name="extra_head">
     </%block>
     ${extra_head_data}
 </head>
-<body class="home blog">
-    <div id="wrap" style="width:850px">
-        <div id="container" style="width:560px">
+<body>
+    <div id="wrapper">
+        <div id="main">
             <%block name="content"></%block>
         </div>
         <div id="sidebar">
             <!--Sidebar content-->
-            <h1 id="blog-title">
+            <h1>
                 <a href="${abs_link('/')}" title="${blog_title}">${blog_title}</a>
             </h1>
             <%block name="belowtitle">
@@ -34,9 +35,9 @@ ${set_locale(lang)}
             ${html_sidebar_links()}
             <li>${search_form}
             </ul>
-        </div>
-        <div id="footer">
+            <div id="credit">
             ${content_footer}
+            </div>
         </div>
     </div>
     ${analytics}
