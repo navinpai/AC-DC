@@ -60,6 +60,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://lifeofnav.in/posts/a-second-post-is-in-order.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://lifeofnav.in/posts/markdown-is-cooler-than-rest.html</loc>
+  <lastmod>2013-06-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://lifeofnav.in/posts/test-post-from-nikola.html</loc>
   <lastmod>2013-06-08</lastmod>
   <priority>0.5000</priority>

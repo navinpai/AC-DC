@@ -1,18 +1,32 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="description" content="Bird? Plane? No, it's a Nikola-powered blog"><meta name="author" content="Navin Pai"><title>Nikola Blog | Nikola Blog</title><link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"><link href="assets/css/rst.css" rel="stylesheet" type="text/css"><link href="assets/css/code.css" rel="stylesheet" type="text/css"><link href="assets/css/colorbox.css" rel="stylesheet" type="text/css"><link href="assets/css/theme.css" rel="stylesheet" type="text/css"><!--[if lt IE 9]>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="description" content="Bird? Plane? No, it's a Nikola-powered blog"><meta name="author" content="Navin Pai"><title>Nikola Blog | Nikola Blog</title><!--        <link href="/assets/css/rst.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/code.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/colorbox.css" rel="stylesheet" type="text/css"/>
+        <link href="/assets/css/theme.css" rel="stylesheet" type="text/css"/>
+--><!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS (en)" href="rss.xml"><link type="text/css" href="assets/css/style.css"></head><body class="home blog">
-    <div id="wrap" style="width:850px">
-        <div id="container" style="width:560px">
+    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS (en)" href="rss.xml"><link type="text/css" rel="stylesheet" href="assets/css/style.css"></head><body>
+    <div id="wrapper">
+        <div id="main">
             
-        <div class="postbox">
-        <h1><a href="posts/test-post-from-nikola.html">Test Post from Nikola :)</a></h1>
-            <div class="meta">                    
-                <span class="authordate">
-                    Posted: 2013-06-07 23:04
+    <ol id="posts"><div class="post">
+        <h2><div class="link"><a href="posts/a-second-post-is-in-order.html">A second post is in order</a></div></h2>
+        <!-- link: -->
+<!-- description: -->
+<!-- tags: -->
+<!-- date: 2013/06/08 01:46:03 -->
+<!-- title: A second post is in order -->
+<!-- slug: a-second-post-is-in-order -->
+<img alt="LOL, this is funny!" src="http://xaxor.com/wp-content/uploads/2012/07/Funny-Game-of-Thrones-logic5.jpg" style="width: 300px; height: 300px;"></div>
+        <div></div>
+                    <div class="postbox">                    
+                <span><!-- class="authordate">-->
+                    Posted: 2013-06-08 01:46
                 </span>
-                <br><span class="tags">Tags: 
+                <br><span> <!--class="tags">-->Tags: 
                 </span>
             </div>
+        <div class="post">
+        <h2><div class="link"><a href="posts/test-post-from-nikola.html">Test Post from Nikola :)</a></div></h2>
         <!-- link: -->
 <!-- description: -->
 <!-- tags: -->
@@ -20,17 +34,37 @@
 <!-- title: Test Post from Nikola :) -->
 <!-- slug: test-post-from-nikola -->
 <p>This is a test post. Hoping that this works :)</p>
+<p>Block one:</p>
+<pre class="literal-block">
+**No** interpretation of
+|special| characters.
+</pre>
+<p>Hehehe :)</p>
+<pre class="code python literal-block">
+<span class="c">#!/usr/bin/env python</span>
+<span class="kn">from</span> <span class="nn">livereload.task</span> <span class="kn">import</span> <span class="n">Task</span>
+<span class="kn">from</span> <span class="nn">livereload.compiler</span> <span class="kn">import</span> <span class="n">shell</span>
+
+<span class="k">for</span> <span class="n">path</span> <span class="ow">in</span> <span class="p">[</span><span class="s">'conf.py'</span><span class="p">,</span> <span class="s">'files/'</span><span class="p">,</span> <span class="s">'galleries/'</span><span class="p">,</span> <span class="s">'plugins/'</span><span class="p">,</span> <span class="s">'posts/'</span><span class="p">,</span> <span class="s">'stories/'</span><span class="p">,</span> <span class="s">'themes/'</span><span class="p">]:</span>
+    <span class="n">Task</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="n">shell</span><span class="p">(</span><span class="s">'nikola build'</span><span class="p">))</span>
+</pre>
         </div>
         <div></div>
-    
-<div>
+                    <div class="postbox">                    
+                <span><!-- class="authordate">-->
+                    Posted: 2013-06-07 23:04
+                </span>
+                <br><span> <!--class="tags">-->Tags: 
+                </span>
+            </div>
+            </ol><div>
 <ul class="pager"></ul></div>
 
 
         </div>
         <div id="sidebar">
             <!--Sidebar content-->
-            <h1 id="blog-title">
+            <h1>
                 <a href="." title="Nikola Blog">Nikola Blog</a>
             </h1>
             
@@ -42,9 +76,9 @@
             </li><li><a href="rss.xml">RSS</a>
 
             </li><li>
-            </li></ul></div>
-        <div id="footer">
+            </li></ul><div id="credit">
             Contents © 2013         <a href="mailto:lifeofnavin@gmail.com">Navin Pai</a> - Powered by         <a href="http://nikola.ralsina.com.ar">Nikola</a>
+            </div>
         </div>
     </div>
     
